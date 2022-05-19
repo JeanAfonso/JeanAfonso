@@ -8,9 +8,11 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jean-Django" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
+  <img align="center" alt="Jean-Django" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Jean-Pycharm" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Jean-Ubuntu" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="Jean-Heroku" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg">  
+  <img align="center" alt="Jean-Heroku" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"> 
 </div>
   
  ##
